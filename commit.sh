@@ -1,7 +1,7 @@
 #!/bin/sh
 
-NAME="Rockstar Programmer"
-EMAIL="EgoRockstarSum@users.noreply.github.com"
+CORRECT_NAME="Rockstar Programmer"
+CORRECT_EMAIL="EgoRockstarSum@users.noreply.github.com"
 
 export GIT_COMMITTER_NAME="$CORRECT_NAME"
 export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
